@@ -3,6 +3,7 @@
   "datum": "27. 11. 2026",
   "instalator": "https://github.com/dosekv/DataSorter.AI/releases/download/v5.2.01b/DataSorter.AI_Setup_v5.2.01b.exe",
   "sha256": "D0AFD3FC7E2888A121245CE487AE260402BB07782DF2CD5055420A7E38202AD9",
+  "velikost": 2044928,
   "stranka": "https://github.com/dosekv/DataSorter.AI/releases/latest",
   "novinky": [
     "Nabídka aktualizace se při startu ukáže jako první, dialog o rozpracované práci až po ní"
