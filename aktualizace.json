@@ -1,10 +1,12 @@
 {
-  "verze": "",
-  "datum": "",
-  "instalator": "",
-  "sha256": "",
-  "velikost": 0,
+  "verze": "5.2.01a",
+  "datum": "27. 11. 2026",
+  "instalator": "https://github.com/dosekv/DataSorter.AI/releases/download/v.5.2.01a/DataSorter.AI_Setup_v5.2.01a.exe",
+  "sha256": "C0548F39641C1C56A71E083984F540CC601DC2EF92702148A229F92F908272A3",
+  "velikost": 2042880,
   "stranka": "https://github.com/dosekv/DataSorter.AI/releases/latest",
-  "novinky": [],
+  "novinky": [
+    "Zkušební aktualizace – ověření, že automatické aktualizace fungují"
+  ],
   "opraveno": []
 }
